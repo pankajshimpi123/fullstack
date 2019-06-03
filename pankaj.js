@@ -1,1 +1,2 @@
-console.log("Hello-wolrd");git push -u origin master
+console.log("Hello-wolrd");
+
